@@ -1,4 +1,4 @@
-# MT-D
+![image](https://github.com/user-attachments/assets/5c0db8e9-ea7f-4e07-a57b-3168988e0cb5)# MT-D
  La prueba pide análisis avanzados en Python con mtcars y diamonds (PCA, clustering, ARIMA, simulaciones) y crear un dashboard interactivo con Shiny for Python para explorar resultados, realizar simulaciones y ajustar parámetros, entregando código y capturas o enlace desplegado.
 
 ![image](https://github.com/user-attachments/assets/1deb97ae-90fd-462f-b572-c7ce85c0313b)
@@ -33,4 +33,23 @@ La función debe maximizar el valor total dentro del presupuesto.
 ![image](https://github.com/user-attachments/assets/f0241d02-bfdb-41da-8384-8f98c3b65043)
 
 ![image](https://github.com/user-attachments/assets/551f9d38-b637-42f6-9e23-3cda1e385c87)
+
+## Para los dashboards se utilizó shiny https://shiny.posit.co/py/
+
+Para correr se pone "shiny run PCA.py"
+
+![image](https://github.com/user-attachments/assets/0760e1a9-b26a-48b7-bebb-6d7ef5c57e99)
+
+![image](https://github.com/user-attachments/assets/8c6b260a-fa8c-453d-bed3-64a2195968a4)
+
+![image](https://github.com/user-attachments/assets/faced24b-d88b-4080-a802-0ff2d1334ae9)
+
+![image](https://github.com/user-attachments/assets/f86eb97e-e4ec-496c-84c8-eb50f805bb14)
+
+![image](https://github.com/user-attachments/assets/5d5ffb86-be8b-4b01-aa01-89584304f450)
+
+
+
+
+
 
