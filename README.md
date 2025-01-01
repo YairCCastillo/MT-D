@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c0db8e9-ea7f-4e07-a57b-3168988e0cb5)# MT-D
+# MT-D
  La prueba pide análisis avanzados en Python con mtcars y diamonds (PCA, clustering, ARIMA, simulaciones) y crear un dashboard interactivo con Shiny for Python para explorar resultados, realizar simulaciones y ajustar parámetros, entregando código y capturas o enlace desplegado.
 
 ![image](https://github.com/user-attachments/assets/1deb97ae-90fd-462f-b572-c7ce85c0313b)
