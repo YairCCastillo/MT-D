@@ -2,10 +2,12 @@
  La prueba pide análisis avanzados en Python con mtcars y diamonds (PCA, clustering, ARIMA, simulaciones) y crear un dashboard interactivo con Shiny for Python para explorar resultados, realizar simulaciones y ajustar parámetros, entregando código y capturas o enlace desplegado.
 
 ![image](https://github.com/user-attachments/assets/1deb97ae-90fd-462f-b572-c7ce85c0313b)
+
 Las variables numéricas son ‘mpg’, ‘disp’,’hp’,’drat’,’wt’,’qsec’
 
 
 Se hizo PCA
+
 ![image](https://github.com/user-attachments/assets/88c79568-0827-4349-8b46-09ac1fec0c7d)
 
 ![image](https://github.com/user-attachments/assets/ff4b84e0-0725-43e1-8e52-f0b605af7dd2)
